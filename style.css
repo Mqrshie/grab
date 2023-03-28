@@ -31,3 +31,9 @@ h1 {
 		transform: rotateZ(0deg);
 	}
 }
+
+a {
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
